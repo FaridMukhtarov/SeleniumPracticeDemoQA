@@ -45,7 +45,7 @@ public class CheckBox {
     }
 
     @Test (priority = 2)
-    public void toggle(){
+    public void toggle() throws InterruptedException {
         WebElement  toggle = driver.findElement(By.cssSelector("span button[type='button'] svg"));
         toggle.click();
 
@@ -53,7 +53,8 @@ public class CheckBox {
         String checkBoxValuebefore = checkBoxClick.getAttribute("class");
         System.out.println(checkBoxValuebefore);
 
-        if (checkBoxClick.isEnabled()) {
+        boolean isEnabled = checkBoxClick.isEnabled();
+        if (isEnabled == true) {
             checkBoxClick.click();
             System.out.println("CheckBox is checked");
 
@@ -61,10 +62,7 @@ public class CheckBox {
             System.out.println("Test Failed");
         }
 
-        boolean isSelected = checkBoxClick.isSelected();
-        if (isSelected){
-            WebElement result = driver.findElement(By.id("result"));
-            System.out.println(result.getText());
-        }
+        WebElement result = driver.findElement(By.id("result"));
+        System.out.println(result.getText());
     }
 }

@@ -58,14 +58,14 @@ public class RadioButton {
     public void yesRadioButton(){
         WebElement yesRadio = driver.findElement(By.xpath("//label[@for='yesRadio']"));
         boolean isEnabled = yesRadio.isEnabled();
-        if (isEnabled){
+        if (isEnabled == true){
             yesRadio.click();
             System.out.println("Yes Radio Button is checked");
         }
 
         WebElement yesRadioButton = driver.findElement(By.id("yesRadio"));
         boolean isSelected = yesRadioButton.isSelected();
-        if (isSelected){
+        if (isSelected == true){
             WebElement text = driver.findElement(By.cssSelector("p.mt-3"));
             System.out.println(text.getText());
         }
