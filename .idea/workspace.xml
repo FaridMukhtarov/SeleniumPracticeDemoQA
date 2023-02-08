@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aef3bccd-f598-4a04-ad81-404a8807e297" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertsFrameWindows/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertsFrameWindows/BrowserWindows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertsFrameWindows/Frames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertsFrameWindows/ModalDialogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AlertsFrameWindows/NestedFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/BrokenLinksImages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/Buttons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/CheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/DynamicProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/Links.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/TextBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/UploadAndDownload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/XMLfile/ElementsAllClasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Elements/XMLfile/parallelTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Interactions/Selectable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Widgets/Accordian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/My Parallel/Chrome Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/My Parallel/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hl8YN3LT9DtkdaHpGdVm4Dj2oD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/farid/SeleniumTraining/DemoQaSeleniumPractice"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\farid\SeleniumTraining\DemoQaSeleniumPractice\src\test\java\Elements\XMLfile" />
+      <recent name="C:\Users\farid\SeleniumTraining\DemoQaSeleniumPractice\src\test\java\Elements" />
+      <recent name="C:\Users\farid\SeleniumTraining\DemoQaSeleniumPractice\src\test\java\AlertsFrameWindows" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.Accordian">
+    <configuration name="Accordian" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQaSeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Widgets" />
+      <option name="MAIN_CLASS_NAME" value="Widgets.Accordian" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Accordian.accordian_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQaSeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Widgets" />
+      <option name="MAIN_CLASS_NAME" value="Widgets.Accordian" />
+      <option name="METHOD_NAME" value="accordian_1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Accordian.accordian_2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQaSeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Widgets" />
+      <option name="MAIN_CLASS_NAME" value="Widgets.Accordian" />
+      <option name="METHOD_NAME" value="accordian_2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Accordian.accordian_3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQaSeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Widgets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Widgets" />
+      <option name="MAIN_CLASS_NAME" value="Widgets.Accordian" />
+      <option name="METHOD_NAME" value="accordian_3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/farid/SeleniumTraining/DemoQaSeleniumPractice/src/test/java/Elements/XMLfile/parallelTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DemoQaSeleniumPractice" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/Elements/XMLfile/parallelTests.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties>
+        <property name="" value="" />
+      </properties>
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+        <listener class="org.testng.reporters.TestHTMLReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.Accordian" />
+      <item itemvalue="TestNG.Accordian.accordian_1" />
+      <item itemvalue="TestNG.Accordian.accordian_2" />
+      <item itemvalue="TestNG.Accordian.accordian_3" />
+      <item itemvalue="TestNG.C:/Users/farid/SeleniumTraining/DemoQaSeleniumPractice/src/test/java/Elements/XMLfile/parallelTests.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Accordian" />
+        <item itemvalue="TestNG.Accordian.accordian_3" />
+        <item itemvalue="TestNG.Accordian.accordian_2" />
+        <item itemvalue="TestNG.Accordian.accordian_1" />
+        <item itemvalue="TestNG.C:/Users/farid/SeleniumTraining/DemoQaSeleniumPractice/src/test/java/Elements/XMLfile/parallelTests.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aef3bccd-f598-4a04-ad81-404a8807e297" name="Changes" comment="" />
+      <created>1668848362040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668848362040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

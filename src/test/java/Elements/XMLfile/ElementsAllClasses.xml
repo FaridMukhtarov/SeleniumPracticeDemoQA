@@ -1,0 +1,18 @@
+<suite name="My suite">
+    <tests name="buttons tests">
+        <test name="button">
+            <classes>
+                <class name="Elements.BrokenLinksImages"/>
+                <class name="Elements.Buttons"/>
+                <class name="Elements.CheckBox"/>
+                <class name="Elements.DynamicProperties"/>
+                <class name="Elements.Links"/>
+                <class name="Elements.RadioButton"/>
+                <class name="Elements.TextBox"/>
+                <class name="Elements.UploadAndDownload"/>
+                <class name="Elements.WebTables"/>
+            </classes>
+        </test>
+    </tests>
+</suite>
+
