@@ -56,7 +56,7 @@ public class UploadAndDownload {
 
         String path = "C:/Users/farid/Downloads";
         String fileName = "sampleFile.jpeg";
-        Thread.sleep(Duration.ofSeconds(3));
+        Thread.sleep(5000);
         boolean isDownloaded = isFileDownloaded(path, fileName);
         System.out.println(isDownloaded);
     }
@@ -66,7 +66,7 @@ public class UploadAndDownload {
         File[] files = file.listFiles();
 
         for (int i = 0; i < files.length; i++) {
-            if (files[1].getName().equals(fileName)) {
+            if (files[i].getName().equals(fileName)) {
                 //files[1].delete();
                 return true;
             }
